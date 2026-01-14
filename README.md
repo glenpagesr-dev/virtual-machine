@@ -6,7 +6,7 @@ https://www.loom.com/share/5fc6613df973410d814bf1213bb397bc
 
 # virtual-machine
 A hands-on lab demonstrating the setup and configuration of a Virtual Machine  for Active Directory on AWS
-# Creating a Windows Virtual Machine / EC2 Instance on AWS
+# Building a Windows Virtual Machine / EC2 Instance on AWS
 
 This guide walks through the process of launching a Windows-based EC2 instance using the AWS Management Console.
 
