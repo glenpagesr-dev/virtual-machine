@@ -1,5 +1,5 @@
 
-[ Thumb nail.pdf](https://github.com/user-attachments/files/24622357/VM.Thumb.nail.pdf)
+
 
 # Watch Me Build The Lab Here
 https://www.loom.com/share/5fc6613df973410d814bf1213bb397bc
