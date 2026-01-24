@@ -1,4 +1,4 @@
-
+# Watch Me Build The Lab Here
 https://www.loom.com/share/5fc6613df973410d814bf1213bb397bc
 
 # virtual-machine
@@ -64,4 +64,3 @@ This guide walks through the process of launching a Windows-based EC2 instance u
 
 - Decrypt the Windows administrator password using your key pair.
 - Connect using **Remote Desktop Protocol (RDP)** and the instance’s public IPv4 address.
-
