@@ -17,7 +17,7 @@ This guide walks through the process of launching a Windows-based EC2 instance u
 ---
 
 ## Step 2: Launch a New Instance
-
+[image alt](https://github.com/glenpagesr-dev/virtual-machine/blob/46764f3439c2b6e5abd7937b42649d1125a7211d/VM%20Instance%20EC2.png)
 1. Click **Launch instance**.
 2.  Under **Application and OS Images (AMI)**, select a **Windows** operating system (such as *Microsoft Windows Server 2022 Base*).
 
