@@ -24,7 +24,7 @@ This guide walks through the process of launching a Windows-based EC2 instance u
 ---
 
 ## Step 3: Choose an Instance Type
-
+![image aly](https://github.com/glenpagesr-dev/virtual-machine/blob/4705d4d005d0d4a8a00ecdf3f2cedd5aa7256c51/VM%20instance%20type.png)
 1. Scroll to the **Instance type** section.
 2. Select an instance type that provides balanced performance, such as:
    - `t3.xlarge` (4 vCPUs, 16 GiB memory)
