@@ -32,7 +32,7 @@ This guide walks through the process of launching a Windows-based EC2 instance u
 ---
 
 ## Step 4: Configure a Key Pair
-
+![image alt](https://github.com/glenpagesr-dev/virtual-machine/blob/2c2d3707efeabae267be522be02ab05be55f8fc0/VM%20keypair.png)
 
 1. In the **Key pair (login)** section, choose an existing key pair or create a new one.
 2. If creating a new key pair:
