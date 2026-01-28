@@ -1,7 +1,7 @@
 # Watch Me Build The Lab Here
 https://www.loom.com/share/5fc6613df973410d814bf1213bb397bc
 
-# Provisioning a virtual-machine for Actve Directory on AWS
+# Provisioning a virtual-machine for Actve Directory in AWS
 A hands-on lab demonstrating the setup and configuration of a Virtual Machine  for Active Directory on AWS
 # Building a Windows Virtual Machine / EC2 Instance on AWS
 
